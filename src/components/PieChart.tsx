@@ -38,7 +38,7 @@ const PieChart: React.FC = () => {
           labels: labels,
           datasets: [
             {
-              label: "Traffic",
+              label: "Weight",
               data: data,
               backgroundColor: [
                 "rgba(63, 81, 181, 0.5)",
